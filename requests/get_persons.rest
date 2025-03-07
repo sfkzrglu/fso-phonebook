@@ -1,0 +1,2 @@
+GET https://fso-phonebook-pchs.onrender.com/api/persons/
+Content-Type: application/json
